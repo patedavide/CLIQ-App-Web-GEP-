@@ -1,9 +1,9 @@
-# 🎧 Tavora — Web App per la gestione delle serate in discoteca
+#  Tavora — Web App per la gestione delle serate in discoteca
 
 *La tua lista, il tuo network, la tua notte.* 
 
 Tavora è una web application progettata per semplificare la gestione e l'organizzazione delle serate in discoteca, offrendo ai PR, ai Capolista e agli Amministratori un unico ambiente in cui gestire prenotazioni, clienti, tavoli, liste, eventi, conteggi e incassi.
-## 📑 Indice
+##  Indice
 1. Panoramica del progetto
 2. Problema e obiettivi
 3. Target e attori
@@ -19,7 +19,7 @@ Tavora è una web application progettata per semplificare la gestione e l'organi
 13. Diagrammi UML
 14. Sicurezza e protezione dei dati
 15. Evoluzione del progetto
-## 🎯 1. Panoramica del progetto
+##  1. Panoramica del progetto
 
 Tavora nasce con l'obiettivo di digitalizzare e centralizzare le attività organizzative dei PR che lavorano nel settore nightlife.
 
@@ -33,7 +33,7 @@ Il sistema prevede tre ruoli principali:
 
 La piattaforma è concepita per essere utilizzabile sia nella fase di preparazione della serata sia durante lo svolgimento dell'evento.
 
-## 💡 2. Problema e obiettivi
+##  2. Problema e obiettivi
 ### Il problema
 
 L'organizzazione delle serate in discoteca si basa spesso su strumenti separati, come chat, fogli di calcolo e applicazioni di messaggistica. Questa frammentazione rende difficile mantenere le informazioni aggiornate e condividere correttamente i dati tra i membri dello staff.
@@ -61,7 +61,7 @@ Tavora si propone di:
 * Gestire gli omaggi sulla base di soglie configurabili.
 * Garantire un accesso alle funzionalità basato sui ruoli.
 * Migliorare la tracciabilità delle operazioni.
-## 👥 3. Target e attori
+##  3. Target e attori
 
 Tavora si rivolge ai professionisti e ai collaboratori del settore nightlife che necessitano di uno strumento pratico per gestire le proprie attività.
 
@@ -73,7 +73,7 @@ Discoteca	Rappresenta il locale a cui sono associati eventi, tavoli, liste e reg
 
 La discoteca è un'entità organizzativa del sistema, non necessariamente un utente autenticato.
 
-## 🏆 4. Competitor
+##  4. Competitor
 
 Le principali alternative considerate per Tavora sono:
 
@@ -85,7 +85,7 @@ WhatsApp	Comunicazione e coordinamento tra collaboratori	Tavora organizza le inf
 
 Questi strumenti possono risolvere singoli aspetti dell'organizzazione, mentre Tavora punta a riunire in un'unica piattaforma le attività centrali del lavoro dei PR.
 
-## 🛠️ 5. Tecnologie e strumenti
+##  5. Tecnologie e strumenti
 
 Gli strumenti indicati per il progetto sono:
 
@@ -94,7 +94,7 @@ Gli strumenti indicati per il progetto sono:
 
 L'architettura applicativa, il framework frontend, il backend e il sistema di persistenza dei dati dovranno essere documentati quando le relative scelte tecnologiche saranno definite.
 
-## ⚙️ 6. Funzionalità dell'applicazione
+##  6. Funzionalità dell'applicazione
 
 Le funzionalità sono suddivise in undici aree principali.
 
@@ -245,7 +245,7 @@ Le User Story descrivono le funzionalità attese dal punto di vista dei diversi 
 * US42 — Gestione degli eventi	Come Amministratore, voglio gestire gli eventi delle discoteche, così da mantenere aggiornata la programmazione disponibile agli utenti.
 * US43 — Generazione di report periodici	Come Amministratore, voglio generare report periodici, così da analizzare l'andamento delle attività e verificare i risultati delle discoteche e delle liste.
 * US44 — Registro delle modifiche	Come Amministratore, voglio visualizzare il registro delle modifiche, così da verificare le operazioni eseguite nel sistema e facilitare le attività di controllo.
-## 🔒 8. Requisiti non funzionali
+##  8. Requisiti non funzionali
 
 I requisiti non funzionali definiscono le caratteristiche qualitative che il sistema deve rispettare.
 
@@ -265,7 +265,7 @@ I requisiti non funzionali definiscono le caratteristiche qualitative che il sis
 
 I requisiti costituiscono obiettivi progettuali. Soglie numeriche di prestazione, disponibilità e recupero dovranno essere definite durante la progettazione tecnica.
 
-## 🧩 9. Requisiti di dominio
+##  9. Requisiti di dominio
 
 I requisiti di dominio descrivono le regole organizzative e operative proprie del settore nightlife.
 
@@ -288,7 +288,7 @@ I requisiti di dominio descrivono le regole organizzative e operative proprie de
 * RD17	Reportistica amministrativa	L'Amministratore può analizzare i dati aggregati attraverso report periodici.
 * RD18	Disattivazione degli account	Gli account possono essere disattivati dagli utenti autorizzati a svolgere tale operazione.
 * RD19	Tracciabilità delle modifiche	Le modifiche rilevanti devono poter essere ricostruite attraverso un registro delle operazioni.
-## 🛡️ 10. Attori e ruoli
+##  10. Attori e ruoli
 PR
 
 Il PR è l'utente operativo che gestisce i clienti e le prenotazioni.
@@ -335,7 +335,7 @@ Eventi e programmazione.
 Tavoli e disponibilità.
 Regole per conteggi, incassi e omaggi.
 Ambiti di autorizzazione e separazione dei dati.
-## 🗂️ 11. Matrice dei permessi
+##  11. Matrice dei permessi
 
 La tabella seguente rappresenta la proposta iniziale dei permessi. Le autorizzazioni definitive dovranno essere validate durante la progettazione.
 
@@ -371,7 +371,7 @@ Legenda: ✓ = previsto; — = non previsto nella proposta iniziale; Da definire
 | Generazione di report periodici | — | — | ✓ |
 | Consultazione del registro delle modifiche | — | — | ✓ |
 
-## 📐 12. Regole di dominio principali
+##  12. Regole di dominio principali
 
 Le seguenti regole sintetizzano il comportamento atteso del sistema.
 
@@ -403,7 +403,7 @@ Gli incassi individuali e quelli della lista devono essere consultabili soltanto
 
 Le formule di conteggio, i criteri per gli incassi e le condizioni esatte di sblocco degli omaggi dovranno essere definite esplicitamente prima dell'implementazione.
 
-## 🖼️ 13. Diagrammi UML
+##  13. Diagrammi UML
 
 I diagrammi UML descrivono i casi d'uso previsti per i diversi ruoli del sistema.
 
@@ -427,7 +427,7 @@ Il diagramma rappresenta le operazioni del PR relative a clienti, prenotazioni, 
 
 Il diagramma rappresenta le operazioni amministrative relative agli utenti, ai ruoli, alle discoteche, alle liste, ai tavoli, agli eventi e alla reportistica.
 
-## 🔐 14. Sicurezza e protezione dei dati
+##  14. Sicurezza e protezione dei dati
 
 La sicurezza è un requisito trasversale dell'applicazione.
 
@@ -444,7 +444,7 @@ La progettazione dovrà considerare almeno i seguenti aspetti:
 
 I controlli di sicurezza dovranno essere applicati anche lato server, evitando di affidare la protezione dei dati esclusivamente all'interfaccia utente.
 
-## 🚀 15. Evoluzione del progetto
+##  15. Evoluzione del progetto
 
 Le funzionalità descritte costituiscono la base funzionale di Tavora. Lo sviluppo potrà essere organizzato progressivamente.
 
@@ -483,7 +483,7 @@ Definizione di ulteriori funzionalità in base alle esigenze operative.
 
 La suddivisione proposta è indicativa e non sostituisce la pianificazione effettiva dello sviluppo.
 
-## 📌 Conclusione
+##  Conclusione
 
 Tavora vuole offrire ai professionisti della nightlife uno strumento unico, strutturato e affidabile per organizzare le serate in discoteca.
 
