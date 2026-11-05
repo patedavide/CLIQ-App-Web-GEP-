@@ -491,4 +491,5 @@ Centralizzando prenotazioni, clienti, tavoli, liste, collaboratori, conteggi e i
 
 La definizione dei requisiti funzionali, non funzionali e di dominio costituisce la base per progettare un sistema coerente con le esigenze operative dei PR, dei Capolista e degli Amministratori.
 
+![Diagramma ER](diagramma-er.png)
 
