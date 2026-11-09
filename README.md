@@ -1,8 +1,8 @@
-#  Tavora — Web App per la gestione delle serate in discoteca
+#  CLIQ — Web App per la gestione delle serate in discoteca
 
 *La tua lista, il tuo network, la tua notte.* 
 
-Tavora è una web application progettata per semplificare la gestione e l'organizzazione delle serate in discoteca, offrendo ai PR, ai Capolista e agli Amministratori un unico ambiente in cui gestire prenotazioni, clienti, tavoli, liste, eventi, conteggi e incassi.
+CLIQ è una web application progettata per semplificare la gestione e l'organizzazione delle serate in discoteca, offrendo ai PR, ai Capolista e agli Amministratori un unico ambiente in cui gestire prenotazioni, clienti, tavoli, liste, eventi, conteggi e incassi.
 ##  Indice
 1. Panoramica del progetto
 2. Problema e obiettivi
@@ -21,7 +21,7 @@ Tavora è una web application progettata per semplificare la gestione e l'organi
 15. Evoluzione del progetto
 ##  1. Panoramica del progetto
 
-Tavora nasce con l'obiettivo di digitalizzare e centralizzare le attività organizzative dei PR che lavorano nel settore nightlife.
+CLIQ nasce con l'obiettivo di digitalizzare e centralizzare le attività organizzative dei PR che lavorano nel settore nightlife.
 
 L'applicazione permette di raccogliere in un unico sistema tutte le informazioni necessarie per organizzare una serata: clienti, prenotazioni, tavoli, prezzi, liste, collaboratori, eventi e risultati economici.
 
@@ -50,7 +50,7 @@ L'organizzazione delle serate in discoteca si basa spesso su strumenti separati,
 * Assenza di un registro centralizzato delle modifiche.
 ### Gli obiettivi
 
-Tavora si propone di:
+CLIQ si propone di:
 
 * Centralizzare le informazioni in un'unica piattaforma.
 * Semplificare la gestione delle prenotazioni.
@@ -63,7 +63,7 @@ Tavora si propone di:
 * Migliorare la tracciabilità delle operazioni.
 ##  3. Target e attori
 
-Tavora si rivolge ai professionisti e ai collaboratori del settore nightlife che necessitano di uno strumento pratico per gestire le proprie attività.
+CLIQ si rivolge ai professionisti e ai collaboratori del settore nightlife che necessitano di uno strumento pratico per gestire le proprie attività.
 
 Attore	Descrizione
 PR	Gestisce clienti, prenotazioni, prezzi, note e attività personali.
@@ -301,6 +301,7 @@ Consultare clienti, schede e storico delle attività.
 Inserire note sui clienti e sulle prenotazioni.
 Consultare eventi, conteggi, incassi e omaggi disponibili.
 Gestire il proprio profilo personale.
+
 Capolista
 
 Il Capolista coordina le attività dei PR appartenenti alla propria lista.
@@ -313,6 +314,7 @@ Gestire le prenotazioni della propria lista nei limiti delle autorizzazioni.
 Consultare i clienti associati al gruppo.
 Gestire le informazioni e le note della lista.
 Monitorare conteggi, incassi e omaggi.
+
 Amministratore
 
 L'Amministratore gestisce la configurazione e il controllo della piattaforma.
@@ -485,7 +487,7 @@ La suddivisione proposta è indicativa e non sostituisce la pianificazione effet
 
 ##  Conclusione
 
-Tavora vuole offrire ai professionisti della nightlife uno strumento unico, strutturato e affidabile per organizzare le serate in discoteca.
+CLIQ vuole offrire ai professionisti della nightlife uno strumento unico, strutturato e affidabile per organizzare le serate in discoteca.
 
 Centralizzando prenotazioni, clienti, tavoli, liste, collaboratori, conteggi e incassi, il progetto mira a ridurre la frammentazione delle informazioni, migliorare la collaborazione tra i PR e rendere più semplice il controllo delle attività.
 
